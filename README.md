@@ -56,10 +56,12 @@ https://nagaaws-2025.s3.eu-north-1.amazonaws.com/download.jpg
 
 - File upload preview
    ![Image](https://github.com/user-attachments/assets/cb1c15b5-e3be-406f-83d0-e92517695b82)
+
 - Bucket policy or permissions tab
    ![Image](https://github.com/user-attachments/assets/cd72a4c7-2c7f-41d8-a410-bea000764724)
+
 - File access via public URL
-- 
+   ![Image](https://github.com/user-attachments/assets/b534ff68-8827-418a-bab8-f414c73c87ed) 
 
 
 
