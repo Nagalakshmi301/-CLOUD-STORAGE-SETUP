@@ -50,17 +50,20 @@ https://nagaaws-2025.s3.eu-north-1.amazonaws.com/download.jpg
 - **AWS S3 Console** for configuration
 - **Web browser** for access testing
 
-## Screenshots (
-
-  ![Image](https://github.com/user-attachments/assets/5c0a7f56-c956-4eca-ae39-adada2daecc1)
-
-
-   ![Image](https://github.com/user-attachments/assets/cb1c15b5-e3be-406f-83d0-e92517695b82)
-
+## Screenshots 
 
    ![Image](https://github.com/user-attachments/assets/cd72a4c7-2c7f-41d8-a410-bea000764724)
 
 
    ![Image](https://github.com/user-attachments/assets/b534ff68-8827-418a-bab8-f414c73c87ed) 
+
+ 
+   ![Image](https://github.com/user-attachments/assets/5c0a7f56-c956-4eca-ae39-adada2daecc1)
+
+
+   ![Image](https://github.com/user-attachments/assets/cb1c15b5-e3be-406f-83d0-e92517695b82)
+
+
+  
 
 
