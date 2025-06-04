@@ -52,12 +52,14 @@ https://nagaaws-2025.s3.eu-north-1.amazonaws.com/download.jpg
 
 ## Screenshots (
 - Bucket creation confirmation
-  
-- File upload preview
-- Bucket policy or permissions tab
-- File access via public URL
+  ![Image](https://github.com/user-attachments/assets/5c0a7f56-c956-4eca-ae39-adada2daecc1)
 
----
+- File upload preview
+   ![Image](https://github.com/user-attachments/assets/cb1c15b5-e3be-406f-83d0-e92517695b82)
+- Bucket policy or permissions tab
+   ![Image](https://github.com/user-attachments/assets/cd72a4c7-2c7f-41d8-a410-bea000764724)
+- File access via public URL
+- 
 
 
 
